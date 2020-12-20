@@ -1,0 +1,165 @@
+{
+  "contact": {
+    "phone": "55490960",
+    "email": "imen.c.aouadi@gmail.com"
+    
+  },
+  "skills": [
+    {
+      "title": "General",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Mobile",
+          "percent": 40
+        },
+        {
+          "name": "Web App Development",
+          "percent": 65
+        },
+        {
+          "name": "Blockchain",
+          "percent": 30
+        },
+        {
+          "name": "Dev Ops",
+          "percent": 35
+        },
+        {
+          "name": "Frontend Development",
+          "percent": 60
+        },
+        {
+          "name": "Backend Development",
+          "percent": 60
+        },
+        {
+          "name": "Data Science",
+          "percent": 40
+        },
+        {
+          "name": "Artificial Intelligence",
+          "percent": 40
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "percent",
+      "subskills": [
+        {
+          "name": "Javascript",
+          "percent": 96
+        },
+        {
+          "name": "Java",
+          "percent": 82
+        },
+        {
+          "name": "Python",
+          "percent": 85
+        },
+        {
+          "name": "C/C++",
+          "percent": 70
+        }
+      ]
+    },
+    {
+      "title": "Frameworks",
+      "type": "tag",
+      "subskills": [
+ 
+        {
+          "name": "SpringBoot"
+        },
+        {
+          "name": "Angular"
+        },
+       
+        {
+          "name": "Node"
+        },
+        {
+          "name": ".net core"
+        },
+        {
+          "name": "Express"
+        },
+        {
+          "name": "JHipster"
+        },
+        {
+          "name": "Gatsby"
+        }
+      
+      ]
+    },
+    {
+      "title": "Software",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Docker"
+        }
+      ]
+    },
+    {
+      "title": "Databases",
+      "type": "tag",
+      "subskills": [
+        {
+          "name": "Postgresql"
+        },
+        {
+          "name": "MySql"
+        },
+        {
+          "name": "Oracle"
+        }
+      ]
+    }
+  ],
+  "summary": "Software engineering student searching for an internship of 4/6 months. ",
+  "education": [
+    {
+      "institution": "Higher Institute of computer science",
+      "degree": "Software development Engineering",
+      "start": "2018",
+      "end": "2021"
+    },
+    {
+      "institution": "Higher Institute of computer science",
+      "degree": "Software development Bachelor",
+      "start": "2015",
+      "end": "2018"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intern",
+      "company": "Gecom",
+      "description": "Development of a notification API",
+      "start": "07/2020",
+      "end": "09/2020"
+    },
+    {
+      "role": "Intern",
+      "company": "ATTT",
+      "description": "Development of a human ressources application using HTML/CSS/JS/BOOTSTRAP & PHP",
+      "start": "02/2018",
+      "end": "09/2018"
+    }
+   
+  ],
+  "social": [
+   
+    {
+      "service": "linkedin",
+      "url": "https://www.linkedin.com/in/imen-aouadi-5ab81b1b9/"
+    }
+  ],
+  "role": "Ingineering Student",
+ 
+  "fullname": "Imen AOUADI"
+}
